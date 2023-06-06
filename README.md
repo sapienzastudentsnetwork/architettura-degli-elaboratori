@@ -29,21 +29,21 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |---|---|---|---|
   
   ### Esame 1 Luglio 2022
-  |1 |2|3 | 4|
-|---|---|---|---|
+| ASM|
+|---|
   
   ### Esame 3 Novembre 2022
-  |1 |2|3 | 4|
+| ASM|[2](../../issues/9)|[3](../../issues/10)|[4](../../issues/11)|
 |---|---|---|---|
   
   ### Esame 24 Gennaio 2023
-  |1 |2|3 | 4|
+| ASM|[2](../../issues/12)|[3](../../issues/13)|[4](../../issues/14)|
 |---|---|---|---|
   
   ### Esame 30 Gennaio 2023
-  |1 |2|3 | 4|
-|---|---|---|---|
+| ASM|
+|---|
   
   ### Esame 20 Marzo 2023
-|1 |2|3 | 4|
+| ASM|[2](../../issues/15)|[3](../../issues/16)|[4](../../issues/17)|
 |---|---|---|---|
