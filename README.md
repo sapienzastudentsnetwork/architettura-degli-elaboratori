@@ -9,7 +9,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
   - [Esame 6 Luglio 2020](#esame-6-luglio-2020)
   - [Esame 11 Settembre 2020](#esame-11-settembre-2020)
   - [Esame 10 Giugno 2022](#esame-10-giugno-2022)
-  - [Esame 1 Luglio 2022](#esame-1-luglio-2022)
+  - [Esame 30 Giugno 2022 (+1 Luglio)](#esame-30-giugno-2022)
   - [Esame 9 Settembre 2022](#esame-9-settembre-2022)
   - [Esame 3 Novembre 2022](#esame-3-novembre-2022)
   - [Esame 24 Gennaio 2023](#esame-24-gennaio-2023)
@@ -34,9 +34,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |[ASM](../../issues/18)|[Cache](../../issues/6)|[CPU](../../issues/7)|[Pipeline](../../issues/8)|
 |---|---|---|---|
   
-  ### Esame 1 Luglio 2022
-|[ASM](../../issues/19)|
-|---|
+  ### Esame 30 Giugno 2022
+|[ASM](../../issues/19)|[Cache](../../issues/32)|[CPU](../../issues/33)|[Pipeline](../../issues/34)|
+|---|---|---|---|
   
   ### Esame 9 Settembre 2022
 |[ASM](../../issues/28)|[Cache](../../issues/29)|[CPU](../../issues/30)|[Pipeline](../../issues/31)|
