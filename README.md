@@ -1,4 +1,4 @@
-# [A/L] Architetture degli Elaboratori [A.A. 2022-2023]
+# [A/L] Architettura degli Elaboratori [A.A. 2022-2023]
 ## Introduzione
 Lo scopo di questo repository GitHub è la condivisione e discussione delle soluzioni di tracce d'esame ed esercizi di Architetture degli Elaboratori forniti dal prof. Alessandro Checco durante l'anno accademico  2022-2023. In questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
