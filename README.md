@@ -17,33 +17,33 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ## Prove Passate
   
   ### Esame 6 Luglio 2020
-| [1](../../issues/1)|[2](../../issues/2)|[3](../../issues/3)|
+|[ASM](../../issues/1)|[Cache](../../issues/2)|[Pipeline](../../issues/3)|
 |---|---|---|
   
   ### Esame 11 Settembre 2020
-  |[1](../../issues/4) |[2](../../issues/5)|
+|[ASM](../../issues/4) |[CPU](../../issues/5)|
 |---|---|
   
   ### Esame 10 Giugno 2022
-| ASM|[2](../../issues/6)|[3](../../issues/7)|[4](../../issues/8)|
+|[ASM](../../issues/18)|[Cache](../../issues/6)|[CPU](../../issues/7)|[Pipeline](../../issues/8)|
 |---|---|---|---|
   
   ### Esame 1 Luglio 2022
-| ASM|
+|[ASM](../../issues/19)|
 |---|
   
   ### Esame 3 Novembre 2022
-| ASM|[2](../../issues/9)|[3](../../issues/10)|[4](../../issues/11)|
+|[ASM](../../issues/22)|[Cache](../../issues/9)|[CPU](../../issues/10)|[Pipeline](../../issues/11)|
 |---|---|---|---|
   
   ### Esame 24 Gennaio 2023
-| ASM|[2](../../issues/12)|[3](../../issues/13)|[4](../../issues/14)|
+|[ASM](../../issues/20)|[Cache](../../issues/12)|[CPU](../../issues/13)|[Pipeline](../../issues/14)|
 |---|---|---|---|
   
   ### Esame 30 Gennaio 2023
-| ASM|
+|[ASM](../../issues/21)|
 |---|
   
   ### Esame 20 Marzo 2023
-| ASM|[2](../../issues/15)|[3](../../issues/16)|[4](../../issues/17)|
-|---|---|---|---|
+|[Cache](../../issues/15)|[CPU](../../issues/16)|[Pipeline](../../issues/17)|
+|---|---|---|
