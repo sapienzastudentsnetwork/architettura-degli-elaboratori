@@ -17,15 +17,15 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 ## Prove Passate
   
   ### Esame 6 Luglio 2020
-| [1](../../issues/1)|[2](../../issues/2)|3 | 4|
-|---|---|---|---|
+| [1](../../issues/1)|[2](../../issues/2)|[3](../../issues/3)|
+|---|---|---|
   
   ### Esame 11 Settembre 2020
-  |1 |2|3 | 4|
-|---|---|---|---|
+  |[1](../../issues/4) |[2](../../issues/5)|
+|---|---|
   
   ### Esame 10 Giugno 2022
-  |1 |2|3 | 4|
+| ASM|[2](../../issues/6)|[3](../../issues/7)|[4](../../issues/8)|
 |---|---|---|---|
   
   ### Esame 1 Luglio 2022
