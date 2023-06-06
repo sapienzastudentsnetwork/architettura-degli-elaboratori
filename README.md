@@ -39,8 +39,8 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 |---|
   
   ### Esame 9 Settembre 2022
-|[ASM](../../issues/28)|
-|---|
+|[ASM](../../issues/28)|[Cache](../../issues/29)|[CPU](../../issues/30)|[Pipeline](../../issues/31)|
+|---|---|---|---|
   
   ### Esame 3 Novembre 2022
 |[ASM](../../issues/22)|[Cache](../../issues/9)|[CPU](../../issues/10)|[Pipeline](../../issues/11)|
