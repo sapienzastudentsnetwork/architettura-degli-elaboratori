@@ -13,15 +13,15 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
     - Per **argomento**
 
-      - [Assembly](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3AAssembly)
+      - [Assembly](../../discussions/categories/esami?discussions_q=is%3Aopen+category%3A"Assembly+(M%2FZ)")
 
-      - [Cache](../../discussions/categories/cache?discussions_q=is%3Aopen+category%3ACache)
+      - [Cache](../../discussions/categories/cache?discussions_q=is%3Aopen+category%3A"Cache+(M%2FZ)")
 
-      - [Modifiche architettura MIPS](../../discussions/categories/modifiche-architettura-mips?discussions_q=is%3Aopen+category%3A%22Modifiche+architettura+MIPS%22)
+      - [Modifiche architettura MIPS](../../discussions/categories/modifiche-architettura-mips?discussions_q=is%3Aopen+category%3A"Modifiche+architettura+MIPS+(M%2FZ)")
 
-      - [Pipeline](../../discussions/categories/pipeline?discussions_q=is%3Aopen+category%3APipeline)
+      - [Pipeline](../../discussions/categories/pipeline?discussions_q=is%3Aopen+category%3A"Pipeline+(M%2FZ)")
 
-      - [Altro](../../discussions/categories/altro?discussions_q=is%3Aopen+category%3AAltro)
+      - [Altro](../../discussions/categories/altro?discussions_q=is%3Aopen+category%3A"Altro+(M%2FZ)")
 
     - Per **traccia**
 
