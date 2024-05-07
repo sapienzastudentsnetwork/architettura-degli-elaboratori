@@ -1,2 +1,9 @@
 title: "[10 gennaio 1999] Assembly (<- cambiare data)"
 labels: ["da risolvere", "MIPS"]
+body:
+- type: textarea
+  attributes:
+    label: Traccia
+    description: Inserisci la traccia dell'esercizio come testo e/o screenshot. Includi anche un'eventuale soluzione del professore (se in tuo possesso). Una volta aggiunta questa discussion potrai aggiungere una tua eventuale soluzione come commento 🙂
+  validations:
+    required: true
