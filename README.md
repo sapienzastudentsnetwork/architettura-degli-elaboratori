@@ -9,6 +9,8 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 - **Esami**
 
+  - [**A/L**](../../discussions?discussions_q=is%3Aopen+category%3A"Esami+(A-L)") (Prof. Franco **Liberati**)
+
   - [**M/Z**](../../discussions?discussions_q=is%3Aopen+category%3A"Altro+(M-Z)"+category%3A"Assembly+(M-Z)"+category%3A"Cache+(M-Z)"+category%3A"Modifiche+architettura+MIPS+(M-Z)"+category%3A"Pipeline+(M-Z)") (Prof. Alessandro **Checco**)
 
     - Per **argomento**
@@ -50,3 +52,9 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
       - [30 Giugno 2023](../../discussions?discussions_q=is%3Aopen+label%3A"30+giugno+2023")
 
       - [11 Settembre 2023](../../discussions?discussions_q=is%3Aopen+label%3A"11+settembre+2023")
+
+- **Esercizi**
+
+  - [**A/L**](../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+(A-L)") (Prof. Franco **Liberati**)
+
+  - [**M/Z**](../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+(M-Z)") (Prof. Alessandro **Checco**)
