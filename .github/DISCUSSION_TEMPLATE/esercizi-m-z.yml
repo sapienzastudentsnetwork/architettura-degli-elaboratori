@@ -1,16 +1,16 @@
-title: "Descrizione"
+title: "(Scrivi qui un titolo)"
 labels: ["da risolvere"]
 body:
 - type: textarea
   attributes:
     label: Traccia
-    description: Inserisci la traccia dell'esercizio come testo e/o screenshot
+    description: Inserisci la traccia dell'esercizio come testo o screenshot (includi anche eventuali immagini)
   validations:
     required: true
 - type: input
   attributes:
     label: Fonte
-    description: Descrivi in quale slide o documento è stata originariamente inserito questo esercizio (se di tua conoscenza)
+    description: Descrivi in quale slide, lezione o documento è stata originariamente distribuito questo esercizio (se di tua conoscenza)
   validations:
     required: false
 - type: input
