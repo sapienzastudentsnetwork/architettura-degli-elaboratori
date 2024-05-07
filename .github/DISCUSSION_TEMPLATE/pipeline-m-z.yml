@@ -1,5 +1,5 @@
-title: "[42 gennaio 2024 (scrivi la data corretta al suo posto)] Assembly"
-labels: ["da risolvere", "MIPS"]
+title: "[42 gennaio 2024 (scrivi la data dell'appello al suo posto)] Pipeline"
+labels: ["da risolvere", "pipeline"]
 body:
 - type: textarea
   attributes:
