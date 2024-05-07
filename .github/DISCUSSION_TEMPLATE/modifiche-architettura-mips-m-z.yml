@@ -4,7 +4,7 @@ body:
 - type: textarea
   attributes:
     label: Traccia
-    description: Inserisci la traccia dell'esercizio come testo e/o screenshot
+    description: Inserisci la traccia dell'esercizio come testo e/o screenshot. Puoi consultare qui un esempio: https://github.com/sapienzastudentsnetwork/architettura-degli-elaboratori/discussions/69
   validations:
     required: true
 - type: textarea
