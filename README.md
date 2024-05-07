@@ -9,7 +9,7 @@ _**N.B**: Considereremo come "risolti" o "con soluzioni confermate" gli esercizi
 
 - **Esami**
 
-  - [**M/Z**](../../discussions?discussions_q=is%3Aopen+category%3AAltro+category%3AAssembly+category%3ACache+category%3A%22Modifiche+architettura+MIPS%22+category%3APipeline) (Prof. Alessandro **Checco**)
+  - [**M/Z**](../../discussions?discussions_q=is%3Aopen+category%3A"Altro+(M%2FZ)"+category%3A"Assembly+(M%2FZ)"+category%3A"Cache+(M%2FZ)"+category%3A"Modifiche+architettura+MIPS+(M%2FZ)"+category%3A"Pipeline+(M%2FZ)") (Prof. Alessandro **Checco**)
 
     - Per **argomento**
 
